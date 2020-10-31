@@ -1,5 +1,5 @@
 # Edgile
-GHCI 2020 E-learning System 
+
 
 ➢ Edgile can be used to hold the classes by watching videos. More than one student can clear their doubts by messaging their teachers. 
 ➢ It allows instructors to deliver web based training to geographically dispersed student, employees and customers .
